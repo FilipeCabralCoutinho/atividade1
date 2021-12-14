@@ -1,5 +1,5 @@
-#Repositório do curso desenvolvedor full stack senai
-#Atividade 1
+|Repositório do curso desenvolvedor full stack senai
+|Atividade 1
 
 #Criação do repositório local 
 #(dentro da pasta local atividade1)
