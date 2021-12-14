@@ -3,6 +3,7 @@
 
 > Criação do repositório local 
 > (dentro da pasta local atividade1)
+
 git init
 
 --------------------------------------------------------------------------
@@ -12,16 +13,19 @@ git init
 --------------------------------------------------------------------------
 
 > Criei o repositório online.
+
 https://github.com/FilipeCabralCoutinho/atividade1.git
 
 --------------------------------------------------------------------------
 
 > Informei a pasta remota do Git Bash
+
 git remote add origin "git@github.com:FilipeCabralCoutinho/atividade1.git"
 
 --------------------------------------------------------------------------
 
 > Publiquei o trabalho:
+
 git add .
 git commit -m "Primeiro commit atividade 1"
 git push origin master
